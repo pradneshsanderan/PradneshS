@@ -19,7 +19,8 @@
     "react-mdl": "^2.1.0",
     "react-particles-js": "^3.4.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "react-typed": "^1.2.0"
   },
   "scripts": {
     "predeploy": "npm run build",
